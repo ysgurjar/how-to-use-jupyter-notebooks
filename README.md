@@ -1,2 +1,4 @@
-# how-to-use-jupyter-notebooks
-Lesson on how to use Jupyter Notebooks for Predictive Analytics 
+# How to use jupyter notebooks?
+
+* Edit a jupyter notebook
+* Create a new jupyter notebook in Gitpod
